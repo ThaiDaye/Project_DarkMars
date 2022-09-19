@@ -1,0 +1,12 @@
+newmtl alian_egg
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd alian egg2_diffuse.jpg
+map_Ks alian egg2_SPEC.jpg
+bump alian egg2_DISP.jpg
+map_bump alian egg2_normal_map.jpg
